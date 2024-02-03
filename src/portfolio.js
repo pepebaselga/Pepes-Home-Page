@@ -92,3 +92,8 @@ https://fontawesome.com/icons?d=gallery */
   display: true // Set false to hide this section, defaults to true
 };
 
+export {
+  greeting,
+  socialMediaLinks,
+  skillsSection
+};
